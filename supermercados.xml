@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <supermercad1>
+         <Nombre>Alcampo</Nombre>
+         <Dirección>Av. Juan de Borbón, 30110 Murcia</Dirección>
+         <Geolocalización>
+             <Latitud>38.03364005811189</Latitud>
+             <Longitud>-1.1493352526252427</Longitud>
+         </Geolocalización>
+         <Secciones>
+             <Alimentación>
+                 <Carnes>
+                     <Cerdo>
+                         <Unidades>300g</Unidades>
+                         <Unidades_de_medida>(8,95 €/Kg)</Unidades_de_medida>
+                         <Precio>2.69</Precio>
+                         <Adquirido>false</Adquirido>
+                     </Cerdo>
+                     <Pollo>
+                         <Unidades>450g</Unidades>
+                         <Unidades_de_medida>(7,49 €/Kg)</Unidades_de_medida>
+                         <Precio>3.37</Precio>
+                         <Adquirido>false</Adquirido>
+                     </Pollo>
+                     <Vacuno>
+                         <Unidades>450g</Unidades>
+                         <Unidades_de_medida>(20,95 €/Kg)</Unidades_de_medida>
+                         <Precio>9.43</Precio>
+                         <Adquirido>true</Adquirido>
+                     </Vacuno>
+                 </Carnes>
+                 <Fruta>
+                     <Fresas>
+                         <Unidades>1kg</Unidades>
+                         <Unidades_de_medida>(5,89 €/Kg)</Unidades_de_medida>
+                         <Precio>5.89</Precio>
+                         <Adquirido>false</Adquirido>
+                     </Fresas>
+                     <Peras>
+                         <Unidades>1kg</Unidades>
+                         <Unidades_de_medida>(1,89 €/Kg)</Unidades_de_medida>
+                         <Precio>1.89</Precio>
+                         <Adquirido>false</Adquirido>
+                     </Peras>
+                     <Manzanas>
+                         <Unidades>1,5kg</Unidades>
+                         <Unidades_de_medida>(1,59 €/Kg)</Unidades_de_medida>
+                         <Precio>2.39</Precio>
+                         <Adquirido>true</Adquirido>
+                     </Manzanas>
+                 </Fruta>
+             </Alimentación>
+             <Bebidas>
+                 <Agua>
+                     <Agua_con_gas>
+                         <Unidades>1l</Unidades>
+                         <Unidades_de_medida>(1,17 €/Litro)</Unidades_de_medida>
+                         <Precio>1.17</Precio>
+                         <Adquirido>true</Adquirido>
+                     </Agua_con_gas>
+                     <Agua_sin_gas>
+                         <Unidades>1.5l</Unidades>
+                         <Unidades_de_medida>(0,45 €/Litro)</Unidades_de_medida>
+                         <Precio>0.68</Precio>
+                         <Adquirido>false</Adquirido>
+                     </Agua_sin_gas>
+                 </Agua>
+                 <Cerveza>
+                     <Lata>
+                         <Unidades>33cl</Unidades>
+                         <Unidades_de_medida>(1,66 €/Litro)</Unidades_de_medida>
+                         <Precio>0.55</Precio>
+                         <Adquirido>true</Adquirido>
+                     </Lata>
+                     <Botella>
+                         <Unidades>50cl</Unidades>
+                         <Unidades_de_medida>(2,92 €/Litro)</Unidades_de_medida>
+                         <Precio>1.46</Precio>
+                         <Adquirido>false</Adquirido>
+                     </Botella>
+                 </Cerveza>
+             </Bebidas>
+         </Secciones>
+         <Periodo_de_vigencia>
+             <Desde>01/04/2022</Desde>
+             <Hasta>15/04/2022</Hasta>
+         </Periodo_de_vigencia>
+         <Productos_habituales_sin_oferta>
+             <Alimentación>
+                 <Carnes>
+                     <Vacuno>
+                         <Unidades>450g</Unidades>
+                         <Unidades_de_medida>(20,95 €/Kg)</Unidades_de_medida>
+                         <Precio>9.43</Precio>
+                         <Adquirido>true</Adquirido>
+                     </Vacuno>
+                 </Carnes>
+                 <Fruta>
+                     <Manzanas>
+                         <Unidades>1,5kg</Unidades>
+                         <Unidades_de_medida>(1,59 €/Kg)</Unidades_de_medida>
+                         <Precio>2.39</Precio>
+                         <Adquirido>true</Adquirido>
+                     </Manzanas>
+                 </Fruta>
+             </Alimentación>
+             <Bebidas>
+                 <Agua>
+                     <Agua_con_gas>
+                         <Unidades>1l</Unidades>
+                         <Unidades_de_medida>(1,17 €/Litro)</Unidades_de_medida>
+                         <Precio>1.17</Precio>
+                         <Adquirido>true</Adquirido>
+                     </Agua_con_gas>
+                 </Agua>
+                 <Cerveza>
+                     <Lata>
+                         <Unidades>33cl</Unidades>
+                         <Unidades_de_medida>(1,66 €/Litro)</Unidades_de_medida>
+                         <Precio>0.55</Precio>
+                         <Adquirido>true</Adquirido>
+                     </Lata>
+                 </Cerveza>
+             </Bebidas>
+         </Productos_habituales_sin_oferta>
+     </supermercad1>
+ </root>

@@ -1,0 +1,374 @@
+{
+	"supermercados": {
+		"supermercad1": {
+			"Nombre": "Alcampo",
+			"Dirección": "Av. Juan de Borbón, 30110 Murcia",
+			"Geolocalización": {
+				"Latitud": "38.03364005811189",
+				"Longitud": "-1.1493352526252427"
+			},
+			"Secciones": {
+				"Alimentación": {
+					"Carnes": {
+						"Cerdo": {
+							"Unidades": "300g",
+							"Unidades_de_medida": "(8,95 €/Kg)",
+							"Precio": "2.69",
+							"Adquirido": "false"
+						},
+						"Pollo": {
+							"Unidades": "450g",
+							"Unidades_de_medida": "(7,49 €/Kg)",
+							"Precio": "3.37",
+							"Adquirido": "false"
+						},
+						"Vacuno": {
+							"Unidades": "450g",
+							"Unidades_de_medida": "(20,95 €/Kg)",
+							"Precio": "9.43",
+							"Adquirido": "true"
+						}
+					},
+					"Fruta": {
+						"Fresas": {
+							"Unidades": "1kg",
+							"Unidades_de_medida": "(5,89 €/Kg)",
+							"Precio": "5.89",
+							"Adquirido": "false"
+						},
+						"Peras": {
+							"Unidades": "1kg",
+							"Unidades_de_medida": "(1,89 €/Kg)",
+							"Precio": "1.89",
+							"Adquirido": "false"
+						},
+						"Manzanas": {
+							"Unidades": "1,5kg",
+							"Unidades_de_medida": "(1,59 €/Kg)",
+							"Precio": "2.39",
+							"Adquirido": "true"
+						}
+					}
+				},
+				"Bebidas": {
+					"Agua": {
+						"Agua_con_gas": {
+							"Unidades": "1l",
+							"Unidades_de_medida": "(1,17 €/Litro)",
+							"Precio": "1.17",
+							"Adquirido": "true"
+						},
+						"Agua_sin_gas": {
+							"Unidades": "1.5l",
+							"Unidades_de_medida": "(0,45 €/Litro)",
+							"Precio": "0.68",
+							"Adquirido": "false"
+						}
+					},
+					"Cerveza": {
+						"Lata": {
+							"Unidades": "33cl",
+							"Unidades_de_medida": "(1,66 €/Litro)",
+							"Precio": "0.55",
+							"Adquirido": "true"
+						},
+						"Botella": {
+							"Unidades": "50cl",
+							"Unidades_de_medida": "(2,92 €/Litro)",
+							"Precio": "1.46",
+							"Adquirido": "false"
+						}
+					}
+				}
+			},
+			"Periodo_de_vigencia": {
+				"Desde": "01/04/2022",
+				"Hasta": "15/04/2022"
+			},
+			"Productos_habituales_sin_oferta": {
+				"Alimentación": {
+					"Carnes": {
+						"Vacuno": {
+							"Unidades": "450g",
+							"Unidades_de_medida": "(20,95 €/Kg)",
+							"Precio": "9.43",
+							"Adquirido": "true"
+						}
+					},
+					"Fruta": {
+						"Manzanas": {
+							"Unidades": "1,5kg",
+							"Unidades_de_medida": "(1,59 €/Kg)",
+							"Precio": "2.39",
+							"Adquirido": "true"
+						}
+					}
+				},
+				"Bebidas": {
+					"Agua": {
+						"Agua_con_gas": {
+							"Unidades": "1l",
+							"Unidades_de_medida": "(1,17 €/Litro)",
+							"Precio": "1.17",
+							"Adquirido": "true"
+						}
+					},
+					"Cerveza": {
+						"Lata": {
+							"Unidades": "33cl",
+							"Unidades_de_medida": "(1,66 €/Litro)",
+							"Precio": "0.55",
+							"Adquirido": "true"
+						}
+					}
+				}
+			}
+		},
+		"supermercad2": {
+			"Nombre": "Carrefour",
+			"Dirección": "C. de Molina de Segura, s/n, 30007 Murcia",
+			"Geolocalización": {
+				"Latitud": "37.991445014233804",
+				"Longitud": "-1.1132726207480255"
+			},
+			"Secciones": {
+				"Alimentación": {
+					"Carnes": {
+						"Cerdo": {
+							"Unidades": "750g",
+							"Unidades_de_medida": "(7,25 €/Kg)",
+							"Precio": "5.44",
+							"Adquirido": "false"
+						},
+						"Pollo": {
+							"Unidades": "600g",
+							"Unidades_de_medida": "(4,40 €/Kg)",
+							"Precio": "2.64",
+							"Adquirido": "true"
+						},
+						"Vacuno": {
+							"Unidades": "500g",
+							"Unidades_de_medida": "(12,90 €/Kg)",
+							"Precio": "6.45",
+							"Adquirido": "false"
+						}
+					},
+					"Fruta": {
+						"Fresas": {
+							"Unidades": "2kg",
+							"Unidades_de_medida": "(6,98 €/Kg)",
+							"Precio": "3.49",
+							"Adquirido": "false"
+						},
+						"Peras": {
+							"Unidades": "1kg",
+							"Unidades_de_medida": "(1,69 €/Kg)",
+							"Precio": "1.69",
+							"Adquirido": "true"
+						},
+						"Manzanas": {
+							"Unidades": "1kg",
+							"Unidades_de_medida": "(1,65 €/Kg)",
+							"Precio": "1.65",
+							"Adquirido": "false"
+						}
+					}
+				},
+				"Bebidas": {
+					"Agua": {
+						"Agua_con_gas": {
+							"Unidades": "1l",
+							"Unidades_de_medida": "(1,18 €/Litro)",
+							"Precio": "1.18",
+							"Adquirido": "true"
+						},
+						"Agua_sin_gas": {
+							"Unidades": "1.5l",
+							"Unidades_de_medida": "(0,50 €/Litro)",
+							"Precio": "0.75",
+							"Adquirido": "false"
+						}
+					},
+					"Cerveza": {
+						"Lata": {
+							"Unidades": "33cl",
+							"Unidades_de_medida": "(1,76 €/Litro)",
+							"Precio": "0.25",
+							"Adquirido": "false"
+						},
+						"Botella": {
+							"Unidades": "50cl",
+							"Unidades_de_medida": "(3,20 €/Litro)",
+							"Precio": "1.6",
+							"Adquirido": "false"
+						}
+					}
+				}
+			},
+			"Periodo_de_vigencia": {
+				"Desde": "08/04/2022",
+				"Hasta": "24/04/2022"
+			},
+			"Productos_habituales_sin_oferta": {
+				"Alimentación": {
+					"Carnes": {
+						"Pollo": {
+							"Unidades": "600g",
+							"Unidades_de_medida": "(4,40 €/Kg)",
+							"Precio": "2.64",
+							"Adquirido": "true"
+						}
+					},
+					"Fruta": {
+						"Peras": {
+							"Unidades": "1kg",
+							"Unidades_de_medida": "(1,69 €/Kg)",
+							"Precio": "1.69",
+							"Adquirido": "true"
+						}
+					}
+				},
+				"Bebidas": {
+					"Agua": {
+						"Agua_con_gas": {
+							"Unidades": "1l",
+							"Unidades_de_medida": "(1,18 €/Litro)",
+							"Precio": "1.18",
+							"Adquirido": "true"
+						}
+					},
+					"Cerveza": {
+						"Botella": {
+							"Unidades": "50cl",
+							"Unidades_de_medida": "(3,20 €/Litro)",
+							"Precio": "1.6",
+							"Adquirido": "true"
+						}
+					}
+				}
+			}
+		},
+		"supermercad3": {
+			"Nombre": "Lidl",
+			"Dirección": "Av. Primero de Mayo, 7, 30006 Murcia",
+			"Geolocalización": {
+				"Latitud": "37.98869034875145",
+				"Longitud": "-1.1149853543404649"
+			},
+			"Secciones": {
+				"Alimentación": {
+					"Carnes": {
+						"Cerdo": {
+							"Unidades": "1kg",
+							"Unidades_de_medida": "(9,95 €/Kg)",
+							"Precio": "9.95",
+							"Adquirido": "true"
+						},
+						"Pollo": {
+							"Unidades": "1kg",
+							"Unidades_de_medida": "(7,89 €/Kg)",
+							"Precio": "7.89",
+							"Adquirido": "false"
+						},
+						"Vacuno": {
+							"Unidades": "450g",
+							"Unidades_de_medida": "(20,95 €/Kg)",
+							"Precio": "9.43",
+							"Adquirido": "false"
+						}
+					},
+					"Fruta": {
+						"Fresas": {
+							"Unidades": "2kg",
+							"Unidades_de_medida": "(4,52 €/Kg)",
+							"Precio": "9.04",
+							"Adquirido": "true"
+						},
+						"Peras": {
+							"Unidades": "1kg",
+							"Unidades_de_medida": "(1,89 €/Kg)",
+							"Precio": "1.89",
+							"Adquirido": "false"
+						},
+						"Manzanas": {
+							"Unidades": "1,5kg",
+							"Unidades_de_medida": "(1,59 €/Kg)",
+							"Precio": "2.39",
+							"Adquirido": "false"
+						}
+					}
+				},
+				"Bebidas": {
+					"Agua": {
+						"Agua_con_gas": {
+							"Unidades": "1l",
+							"Unidades_de_medida": "(1,15 €/Litro)",
+							"Precio": "1.15",
+							"Adquirido": "true"
+						},
+						"Agua_sin_gas": {
+							"Unidades": "1.5l",
+							"Unidades_de_medida": "(0,50 €/Litro)",
+							"Precio": "0.75",
+							"Adquirido": "true"
+						}
+					},
+					"Cerveza": {
+						"Lata": {
+							"Unidades": "33cl",
+							"Unidades_de_medida": "(1,68 €/Litro)",
+							"Precio": "0.56",
+							"Adquirido": "false"
+						},
+						"Botella": {
+							"Unidades": "50cl",
+							"Unidades_de_medida": "(2,94 €/Litro)",
+							"Precio": "1.48",
+							"Adquirido": "false"
+						}
+					}
+				}
+			},
+			"Periodo_de_vigencia": {
+				"Desde": "01/04/2022",
+				"Hasta": "15/04/2022"
+			},
+			"Productos_habituales_sin_oferta": {
+				"Alimentación": {
+					"Carnes": {
+						"Cerdo": {
+							"Unidades": "1kg",
+							"Unidades_de_medida": "(9,95 €/Kg)",
+							"Precio": "9.95",
+							"Adquirido": "true"
+						}
+					},
+					"Fruta": {
+						"Fresas": {
+							"Unidades": "2kg",
+							"Unidades_de_medida": "(4,52 €/Kg)",
+							"Precio": "9.04",
+							"Adquirido": "true"
+						}
+					}
+				},
+				"Bebidas": {
+					"Agua": {
+						"Agua_con_gas": {
+							"Unidades": "1l",
+							"Unidades_de_medida": "(1,15 €/Litro)",
+							"Precio": "1.15",
+							"Adquirido": "true"
+						},
+						"Agua_sin_gas": {
+							"Unidades": "1.5l",
+							"Unidades_de_medida": "(0,50 €/Litro)",
+							"Precio": "0.75",
+							"Adquirido": "true"
+						}
+					}
+				}
+			}
+		}
+	}
+}
